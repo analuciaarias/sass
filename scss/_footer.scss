@@ -1,6 +1,6 @@
 footer{
-    background-color: rgb(143, 137, 137);
-    height: $alto -600;
+    background-color: $backg;
+    height: $alto -200px;
 h2{
     color: $color;
     font-size: 30px;
@@ -14,7 +14,7 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
 }
 p{
-    color: grey;
+    color: $color;
     font-size: 15px;
     text-align: center;
 }

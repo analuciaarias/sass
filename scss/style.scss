@@ -1,12 +1,11 @@
-@import "header";
-@import "body";
-@import "footer";
-
-
-$alto:1000px;
+$alto:600px;
 $backg:#8f8989;
 $color:#1f1d1d;
 
+
+@import "header";
+@import "footer";
+@import "main";
 
 * {
     margin: 0;
